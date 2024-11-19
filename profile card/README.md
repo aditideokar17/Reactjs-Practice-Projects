@@ -1,6 +1,5 @@
 # Simple Project to Practice React with Basics
-
-<!-- 
+ 
 
     PROFILE CARD
 
@@ -10,7 +9,3 @@
     - ReactDOM
     - JSX
     - React Component
-
-
-
- -->
